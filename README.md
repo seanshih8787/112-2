@@ -4,5 +4,5 @@
 ##### 系級：科技系二年級
 # 課程筆記區
 # 作業連結區
-[1]: <https://www.youtube.com/watch?v=JGyh-pOPkMo> "作業一"
+[id]: <https://www.youtube.com/watch?v=JGyh-pOPkMo> "作業一"
 # 專題連結區
